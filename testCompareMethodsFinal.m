@@ -1,7 +1,7 @@
 %% This script is used to compare the performance of different global optimization algorithms 
 % on different optimization problems (different test problems with different dimensions)
 % Author: Bin She
-% Affiliation: University of Electronic Science and Technology of China
+% Affiliation: Huawei
 % Email: bin.stepbystep@gmail.com
 close all;
 clear;
